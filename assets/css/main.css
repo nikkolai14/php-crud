@@ -1,0 +1,9 @@
+input {
+	width: 100%;
+	height: 30px;
+	padding: 1rem;
+}
+
+.help-inline {
+	color: red;
+}
